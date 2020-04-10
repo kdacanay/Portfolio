@@ -1,0 +1,26 @@
+/* your styles go here */
+
+#mainName1 {
+    color: #74CCA6;
+}
+#mainName2 {
+    color: #74CCA6;
+}
+#logoName {
+    color: #6F8078;
+    text-shadow: 0 -1px #74CCA6,  0 -1px  #74CCA6, 0 -1px  #74CCA6,  0 -1px  #74CCA6;
+}
+#maindesc {
+    color: #6F8078;
+    font-size: 25px;
+    font-weight: bold;
+    text-shadow: 0 -1px #74CCA6,  0 -1px  #74CCA6, 0 -1px  #74CCA6,  0 -1px  #74CCA6;
+}
+h2 {
+    color: #6F8078;
+    text-shadow: 0 -1px #74CCA6,  0 -1px  #74CCA6, 0 -1px  #74CCA6,  0 -1px  #74CCA6;
+}
+#textid {
+    color: #6F8078;
+    text-shadow: 0 -1px #74CCA6,  0 -1px  #74CCA6, 0 -1px  #74CCA6,  0 -1px  #74CCA6;
+}
