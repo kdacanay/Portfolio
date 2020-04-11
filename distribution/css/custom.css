@@ -11,8 +11,9 @@
     text-shadow: 0 -1px #74CCA6,  0 -1px  #74CCA6, 0 -1px  #74CCA6,  0 -1px  #74CCA6;
 }
 #maindesc {
+    font-size: 10px;
+    word-wrap: normal;
     color: #6F8078;
-    font-size: 25px;
     font-weight: bold;
     text-shadow: 0 -1px #74CCA6,  0 -1px  #74CCA6, 0 -1px  #74CCA6,  0 -1px  #74CCA6;
 }
@@ -24,3 +25,32 @@ h2 {
     color: #6F8078;
     text-shadow: 0 -1px #74CCA6,  0 -1px  #74CCA6, 0 -1px  #74CCA6,  0 -1px  #74CCA6;
 }
+.ml15 {
+    font-weight: 800;
+    font-size: 3.8em;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+  }
+  
+  .ml15 .word {
+    display: inline-block;
+    line-height: 1em;
+  }
+  .ml12 {
+    word-wrap: normal;
+    font-weight: 200;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+  }
+  
+  .ml12 .letter {
+    font-size: 15px;
+    display: inline-block;
+    line-height: 1em;
+    word-wrap: normal;
+  }
+  @media (max-width: 576px) {
+    .ml12 .letter {
+        font-size: 25px;
+    }
+  }
