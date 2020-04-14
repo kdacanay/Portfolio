@@ -119,7 +119,7 @@ anime.timeline({loop: true})
 function map() {
 
     var mapId = 'map',
-        mapCenter = [53.14, 8.22],
+        mapCenter = [39.95, -75.17],
         mapMarker = true;
 
     if ($('#' + mapId).length > 0) {
