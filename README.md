@@ -1,6 +1,6 @@
-# Portfolio-Update
+# Portfolio
 
-https://kdacanay.github.io/Portfolio-Update/
+https://kdacanay.github.io/Portfolio/
 
 
 <img src="assets/images/frontcapture.PNG" width=500>
